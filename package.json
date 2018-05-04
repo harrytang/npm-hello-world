@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello world",
+  "keywords": [
+    "npm",
+    "js",
+    "hello world"
+  ],
+  "homepage": "https://powerkernel.com",
+  "bugs": {
+    "url": "https://github.com/harrytang/npm-hello-world/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Harry Tang",
+    "email": "harry@powerkernel.com"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrytang/npm-hello-world"
+  }
+}
