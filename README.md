@@ -1,1 +1,1 @@
-# npm-hello-world
+# @harrytang/hello-world
